@@ -7,4 +7,4 @@ We create math games for kids
 
 此项目由陈斌（前微软程序员，橙旭园CEO）创办并提供部分资助。
 
-<h1>地址：</h1>
+本项目采用<b>Scratch3</b>开发，地址：https://s3.coding61.com/
