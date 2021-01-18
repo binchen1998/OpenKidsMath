@@ -1,5 +1,5 @@
 # OpenKidesMath
-We create math games for kids
+<h2>We create math games for kids</h2>
 
 我们为2-6岁的孩子开发互动游戏，提升他/她们的数理思维。
 
